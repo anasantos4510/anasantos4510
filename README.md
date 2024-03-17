@@ -8,7 +8,7 @@ Atuo há alguns anos na elaboração e desenvolvimento de sistemas e acredito qu
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </div>
 
-##anasantos6610
+##
 
 <div>               
   <a href = "mailto:anamariasantos4510@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
