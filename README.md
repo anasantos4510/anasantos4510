@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá! Eu sou a Ana!
+Atuo há alguns anos na elaboração e desenvolvimento de sistemas e acredito que eles tem o objeto melhorar de alguma forma a vida dos usuários. Sendo assim, sigo em busca deste propósito, criar e participar de projetos que entregam valor às pessoas.   
 
 <!--
 **anasantos4510/anasantos4510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
