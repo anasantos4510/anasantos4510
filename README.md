@@ -1,5 +1,13 @@
 ### Olá! Eu sou a Ana!
-Atuo há alguns anos na elaboração e desenvolvimento de sistemas e acredito que eles tem o objeto melhorar de alguma forma a vida dos usuários. Sendo assim, sigo em busca deste propósito, criar e participar de projetos que entregam valor às pessoas.   
+Atuo há alguns anos na elaboração e desenvolvimento de sistemas e acredito que eles tem o objeto melhorar de alguma forma a vida dos usuários. Sendo assim, sigo em busca deste propósito, criar e participar de projetos que geram valor para as pessoas.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasantos4510&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+          
+
+<div style="display: inline_block">
+  <i class="devicon-java-plain-wordmark"></i>
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+</div>
 
 <!--
 **anasantos4510/anasantos4510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
