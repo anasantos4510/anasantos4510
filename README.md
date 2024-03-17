@@ -12,9 +12,12 @@ Atuo há alguns anos na elaboração e desenvolvimento de sistemas e acredito qu
 
 <div>               
   <a href = "mailto:anamariasantos4510@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "www.linkedin.com/in/ana-maria-santos-0a0985264" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "www.linkedin.com/in/ana-maria-santos-0a0985264"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-santos-0a0985264/)
+
 <!--
 **anasantos4510/anasantos4510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
